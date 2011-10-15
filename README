@@ -1,0 +1,2 @@
+MovieFetch is a small application that scans a selected folder for movies and 
+creates an all-in-one HTML file with their descriptions downloaded from IMDb.
